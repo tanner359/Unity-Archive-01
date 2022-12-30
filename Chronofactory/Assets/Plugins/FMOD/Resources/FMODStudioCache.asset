@@ -1,0 +1,313 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-4868155944048043758
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Level Music/To Medieval
+  m_EditorClassIdentifier: 
+  Name: To Medieval
+  Min: 0
+  Max: 2
+  Default: 0
+  Exists: 1
+--- !u!114 &-3843361701592541093
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Level Music/To Factory
+  m_EditorClassIdentifier: 
+  Name: To Factory
+  Min: 0
+  Max: 2
+  Default: 0
+  Exists: 1
+--- !u!114 &-3317583901444418759
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/tanne/Desktop/Factory Overcooked/Assets/Audio Bin/FMOD Banks/Project/Adaptive
+    ChronoFactory/Build/Desktop/Master.strings.bank
+  SubDir: 
+  lastModified: 637080646264962223
+  LoadResult: 0
+  FileSizes:
+  - Name: 
+    Value: 1288
+  Exists: 1
+--- !u!114 &-1775217073643086529
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Miscellaneous SFX/Fire_Sizzle
+  m_EditorClassIdentifier: 
+  Path: event:/Miscellaneous SFX/Fire_Sizzle
+  guid: 15a97ac4b84f9c499d964f149ce7be10
+  Banks:
+  - {fileID: 188616667081910710}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 689
+--- !u!114 &-1616030387878047263
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Machine_Spawner_events/Machine_Spawner_ambience
+  m_EditorClassIdentifier: 
+  Path: event:/Machine_Spawner_events/Machine_Spawner_ambience
+  guid: eaae500c14d9864dadf4c0c182e09651
+  Banks:
+  - {fileID: 188616667081910710}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 38500
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d32cf7c32a3ed8347bac48ef5ed56d82, type: 3}
+  m_Name: FMODStudioCache
+  m_EditorClassIdentifier: 
+  EditorBanks:
+  - {fileID: -3317583901444418759}
+  - {fileID: 188616667081910710}
+  EditorEvents:
+  - {fileID: -1775217073643086529}
+  - {fileID: 3565798084454024458}
+  - {fileID: 381475408735338725}
+  - {fileID: 113344279187036650}
+  - {fileID: 5310474086221944117}
+  - {fileID: 893488987928066606}
+  - {fileID: 9125642205812152292}
+  - {fileID: -1616030387878047263}
+  EditorParameters: []
+  MasterBanks:
+  - {fileID: 188616667081910710}
+  StringsBanks:
+  - {fileID: -3317583901444418759}
+  stringsBankWriteTime: 637080646264962223
+  cacheVersion: 3
+--- !u!114 &113344279187036650
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/Level Music
+  m_EditorClassIdentifier: 
+  Path: event:/Music/Level Music
+  guid: 60a9f6b41bec34459920f3c0ffca3796
+  Banks:
+  - {fileID: 188616667081910710}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters:
+  - {fileID: -4868155944048043758}
+  - {fileID: -3843361701592541093}
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 230909
+--- !u!114 &188616667081910710
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: C:/Users/tanne/Desktop/Factory Overcooked/Assets/Audio Bin/FMOD Banks/Project/Adaptive
+    ChronoFactory/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637081266667026331
+  LoadResult: 0
+  FileSizes:
+  - Name: 
+    Value: 6316320
+  Exists: 1
+--- !u!114 &381475408735338725
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Machine_Spawner_events/Machine_Spawner_noise
+  m_EditorClassIdentifier: 
+  Path: event:/Machine_Spawner_events/Machine_Spawner_noise
+  guid: 43e62f8f0739f24cbe23cac735bcf35d
+  Banks:
+  - {fileID: 188616667081910710}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 388
+--- !u!114 &751051173683674115
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/GDR_Event/GDR
+  m_EditorClassIdentifier: 
+  Name: GDR
+  Min: 0
+  Max: 5
+  Default: 0
+  Exists: 1
+--- !u!114 &893488987928066606
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/Main Theme
+  m_EditorClassIdentifier: 
+  Path: event:/Music/Main Theme
+  guid: 70b2b4687bc61c47bd305b389e3e2fea
+  Banks:
+  - {fileID: 188616667081910710}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 148571
+--- !u!114 &3565798084454024458
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/GDR_Event
+  m_EditorClassIdentifier: 
+  Path: event:/GDR_Event
+  guid: 38e795b1f405684ba9eec32caa0c19de
+  Banks:
+  - {fileID: 188616667081910710}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters:
+  - {fileID: 751051173683674115}
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1107
+--- !u!114 &5310474086221944117
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Footsteps
+  m_EditorClassIdentifier: 
+  Path: event:/Footsteps
+  guid: 67b3bb3739cf1747811eab0248209b32
+  Banks:
+  - {fileID: 188616667081910710}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 421
+--- !u!114 &9125642205812152292
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/Medieval Level
+  m_EditorClassIdentifier: 
+  Path: event:/Music/Medieval Level
+  guid: 82a7abcc78b199498e02533b4f435301
+  Banks:
+  - {fileID: 188616667081910710}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 130909

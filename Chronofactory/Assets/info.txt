@@ -1,0 +1,5 @@
+Chronofactory
+Chronofactory is a multiplayer assembly-em-up where you and a partner must create assembly lines under a strict time limit. However, nothing is ever as simple as it seems, with broken machines, fire alarms, and time paradoxes riddling your assembly line, this frantic, time traveling factory will always keep you on your toes!
+Devon Hawley - Design, Programming, Level Design
+Tanner Cobb - Design, Programming, Modeling
+Tobey-Julian Joseph - Design, Sound Design/Engineering, Composer

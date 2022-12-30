@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{b35d4c59-5a91-4e93-a4c9-9cfa8b2ac234}">
+		<property name="assetPath">
+			<value>GDR/Grab/Machine Pickup - Drop - Throw_9.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.7285625</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{e8828b68-8673-446c-a6d4-ea6551a225e1}</destination>
+		</relationship>
+	</object>
+</objects>

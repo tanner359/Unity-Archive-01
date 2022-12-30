@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Gold
+  - Copper
+  - Sand
+  - Material
+  - Machine
+  - Copper_Bar
+  - Gold_Bar
+  - Glass
+  - Box
+  - Base
+  - Single
+  - Double
+  - Metal
+  - Metal_Bar
+  - Metal_Plates
+  - Rubber
+  - Crystal
+  - Electronics
+  - Character
+  - Unmovable
+  - Wheel
+  - Car_Body
+  - Battery
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Material
+  - Player
+  - Refined Materials
+  - ActiveBlock
+  - UnactiveBlock
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

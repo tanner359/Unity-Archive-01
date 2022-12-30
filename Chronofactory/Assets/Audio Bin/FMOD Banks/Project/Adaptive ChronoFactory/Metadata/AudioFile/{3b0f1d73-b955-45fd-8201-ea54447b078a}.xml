@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{3b0f1d73-b955-45fd-8201-ea54447b078a}">
+		<property name="assetPath">
+			<value>Hit Bottle Covered_8.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.61024999999999996</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{e8828b68-8673-446c-a6d4-ea6551a225e1}</destination>
+		</relationship>
+	</object>
+</objects>

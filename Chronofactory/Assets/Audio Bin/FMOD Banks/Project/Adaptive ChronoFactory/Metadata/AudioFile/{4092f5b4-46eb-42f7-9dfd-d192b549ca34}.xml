@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{4092f5b4-46eb-42f7-9dfd-d192b549ca34}">
+		<property name="assetPath">
+			<value>GDR/Rotate/Machine Pickup - Drop - Throw_5.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.32056249999999997</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{e8828b68-8673-446c-a6d4-ea6551a225e1}</destination>
+		</relationship>
+	</object>
+</objects>

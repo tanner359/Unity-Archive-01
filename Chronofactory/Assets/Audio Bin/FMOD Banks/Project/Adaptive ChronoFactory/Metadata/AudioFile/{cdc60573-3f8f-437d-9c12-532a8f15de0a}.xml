@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{cdc60573-3f8f-437d-9c12-532a8f15de0a}">
+		<property name="assetPath">
+			<value>On the Clock (Main Theme).wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>148.57142857142858</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{e8828b68-8673-446c-a6d4-ea6551a225e1}</destination>
+		</relationship>
+	</object>
+</objects>

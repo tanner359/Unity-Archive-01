@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="ParameterPreset" id="{5cf4730b-5608-456a-967c-8cdcdcf44e7c}">
+		<property name="name">
+			<value>GDR</value>
+		</property>
+		<relationship name="folder">
+			<destination>{a660c412-9a1d-4ef0-9073-d22b7a49cec2}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{fcd5d8af-d8b3-409a-96e7-f512ca23823a}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{fcd5d8af-d8b3-409a-96e7-f512ca23823a}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>5</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
