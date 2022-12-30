@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 9c563fc16b9406b46af1efe7aee7aded
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1271213809344942623
+    second: SamaraiMainCharacter_IDLE_ANIM_33
+  - first:
+      213: 2827848889881375392
+    second: SamaraiMainCharacter_IDLE_ANIM_44
+  - first:
+      213: -3320308485363908609
+    second: SamaraiMainCharacter_IDLE_ANIM_65
+  - first:
+      213: -3854317279127192397
+    second: SamaraiMainCharacter_IDLE_ANIM_68
+  - first:
+      213: -6985707439644378337
+    second: SamaraiMainCharacter_IDLE_ANIM_69
+  - first:
+      213: -486717441281026951
+    second: SamaraiMainCharacter_IDLE_ANIM_71
+  - first:
+      213: -8268724877632394750
+    second: SamaraiMainCharacter_IDLE_ANIM_73
+  - first:
+      213: 4207765151985434115
+    second: SamaraiMainCharacter_IDLE_ANIM_75
+  - first:
+      213: 6049706956548095334
+    second: SamaraiMainCharacter_IDLE_ANIM_77
+  - first:
+      213: -7164946355710434707
+    second: SamaraiMainCharacter_IDLE_ANIM_83
+  - first:
+      213: -2867208936837038685
+    second: SamaraiMainCharacter_IDLE_ANIM_87
+  - first:
+      213: 2387599008074332510
+    second: SamaraiMainCharacter_IDLE_ANIM_88
+  - first:
+      213: -5266116222516757164
+    second: SamaraiMainCharacter_IDLE_ANIM_89
+  - first:
+      213: 5509519735276600929
+    second: SamaraiMainCharacter_IDLE_ANIM_90
+  - first:
+      213: -5615924480339758184
+    second: SamaraiMainCharacter_IDLE_ANIM_91
+  - first:
+      213: 857842203927696285
+    second: SamaraiMainCharacter_IDLE_ANIM_92
+  - first:
+      213: 7563948337940894944
+    second: SamaraiMainCharacter_IDLE_ANIM_93
+  - first:
+      213: 4444304793430402972
+    second: SamaraiMainCharacter_IDLE_ANIM_94
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SamaraiMainCharacter_IDLE_ANIM_33
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 241
+        width: 955
+        height: 1561
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed2430f4b8211348b58e64ee33ecd1d
+      internalID: -1271213809344942623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamaraiMainCharacter_IDLE_ANIM_44
+      rect:
+        serializedVersion: 2
+        x: 8345
+        y: 241
+        width: 954
+        height: 1561
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce897394121d2d6419e87e96981591e9
+      internalID: 2827848889881375392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamaraiMainCharacter_IDLE_ANIM_65
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 241
+        width: 955
+        height: 1542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f27849b3aa7944298f7d69f7e5cf14
+      internalID: -3320308485363908609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamaraiMainCharacter_IDLE_ANIM_68
+      rect:
+        serializedVersion: 2
+        x: 2271
+        y: 1774
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54f40f7d4c3df142ac3229d3a2bef06
+      internalID: -3854317279127192397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamaraiMainCharacter_IDLE_ANIM_69
+      rect:
+        serializedVersion: 2
+        x: 2732
+        y: 241
+        width: 947
+        height: 1541
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ecfde4a7c811d41801efcfe231554d
+      internalID: -6985707439644378337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamaraiMainCharacter_IDLE_ANIM_71
+      rect:
+        serializedVersion: 2
+        x: 3872
+        y: 241
+        width: 945
+        height: 1541
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35160c2c9d03ffe4dbf8ac0064e1db91
+      internalID: -486717441281026951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamaraiMainCharacter_IDLE_ANIM_73
+      rect:
+        serializedVersion: 2
+        x: 6111
+        y: 241
+        width: 947
+        height: 1541
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c46ad99f79f3549bedd2796e64caa3
+      internalID: -8268724877632394750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamaraiMainCharacter_IDLE_ANIM_75
+      rect:
+        serializedVersion: 2
+        x: 7222
+        y: 241
+        width: 954
+        height: 1542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e887fc856664e446b80a737ba85cd96
+      internalID: 4207765151985434115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamaraiMainCharacter_IDLE_ANIM_77
+      rect:
+        serializedVersion: 2
+        x: 7798
+        y: 1781
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c32a4db30e32d469f535ac0138a02b
+      internalID: 6049706956548095334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamaraiMainCharacter_IDLE_ANIM_83
+      rect:
+        serializedVersion: 2
+        x: 4954
+        y: 241
+        width: 961
+        height: 1508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933c7210d98a7d448a16462033bc9b58
+      internalID: -7164946355710434707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamaraiMainCharacter_IDLE_ANIM_87
+      rect:
+        serializedVersion: 2
+        x: 9720
+        y: 900
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0005fa7a6296ec744aab1c6afb969aff
+      internalID: -2867208936837038685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamaraiMainCharacter_IDLE_ANIM_88
+      rect:
+        serializedVersion: 2
+        x: 2725
+        y: 830
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6888049edd73f1b4eac40882dece7057
+      internalID: 2387599008074332510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamaraiMainCharacter_IDLE_ANIM_89
+      rect:
+        serializedVersion: 2
+        x: 3862
+        y: 820
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5452dfdbe3eb24c449043dea4811c10f
+      internalID: -5266116222516757164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamaraiMainCharacter_IDLE_ANIM_90
+      rect:
+        serializedVersion: 2
+        x: 6104
+        y: 820
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab60b8ee530455b4ab0eb1e03d8d377e
+      internalID: 5509519735276600929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamaraiMainCharacter_IDLE_ANIM_91
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 820
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7590dd8e24f25478239e3057617cb0
+      internalID: -5615924480339758184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamaraiMainCharacter_IDLE_ANIM_92
+      rect:
+        serializedVersion: 2
+        x: 3862
+        y: 805
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd91af350fb76d4db6f385b0a225311
+      internalID: 857842203927696285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamaraiMainCharacter_IDLE_ANIM_93
+      rect:
+        serializedVersion: 2
+        x: 6104
+        y: 800
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae74208664a99e3499a802e5a28b1c6b
+      internalID: 7563948337940894944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamaraiMainCharacter_IDLE_ANIM_94
+      rect:
+        serializedVersion: 2
+        x: 2725
+        y: 800
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2d9fcda7a98844eb32f39ee8acc365
+      internalID: 4444304793430402972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ea66eed52de48964a9dc5c065b7d2f52
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
