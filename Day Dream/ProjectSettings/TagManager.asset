@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Shard
+  - Wood
+  - Food
+  - Fire
+  - Spook
+  - Enemy
+  - Interactable
+  - animal
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Post Processing
+  - Water
+  - UI
+  - 
+  - Map Border
+  - Ground
+  - Campfire
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 958334283
+    locked: 0
+  - name: AboveGround
+    uniqueID: 2546914915
+    locked: 0
+  - name: CampFire
+    uniqueID: 125156951
+    locked: 0
+  - name: Player
+    uniqueID: 420177287
+    locked: 0
+  - name: UI
+    uniqueID: 609550689
+    locked: 0
