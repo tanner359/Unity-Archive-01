@@ -44,6 +44,12 @@ ExportedObj/
 *.opendb
 *.VC.db
 
+# Lighting Data
+LightingData.asset
+LightingData.asset.meta
+*.exr
+*.exr.meta
+
 # Unity3D generated meta files
 *.pidb.meta
 *.pdb.meta
